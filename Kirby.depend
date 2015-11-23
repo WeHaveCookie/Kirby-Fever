@@ -1,0 +1,571 @@
+# depslib dependency file v1.0
+1390812477 source:c:\users\darkeisii\dropbox\projet jeu\kirby\kirby\main.cpp
+	<SFML/Graphics.hpp>
+	<SFML/System.hpp>
+
+1391072143 source:c:\users\lisko\dropbox\projet jeu\kirby\kirby\main.cpp
+	<SFML/Graphics.hpp>
+	<SFML/System.hpp>
+	"constantes.hpp"
+	"mainMenu.hpp"
+	"menuAnimation.hpp"
+	"Game.hpp"
+
+1390897215 c:\users\lisko\dropbox\projet jeu\kirby\kirby\mainmenu.hpp
+	<SFML/Graphics.hpp>
+	<SFML/System.hpp>
+	"constantes.hpp"
+
+1391072194 c:\users\lisko\dropbox\projet jeu\kirby\kirby\constantes.hpp
+	<iostream>
+
+1390944102 source:c:\users\lisko\dropbox\projet jeu\kirby\kirby\mainmenu.cpp
+	"mainMenu.hpp"
+
+1391171942 c:\users\lisko\dropbox\projet jeu\kirby\kirby\menuanimation.hpp
+	<SFML/Graphics.hpp>
+	<SFML/System.hpp>
+	<iostream>
+
+1391172013 source:c:\users\lisko\dropbox\projet jeu\kirby\kirby\menuanimation.cpp
+	"menuAnimation.hpp"
+
+1391171083 source:c:\users\lisko\dropbox\projet jeu\kirby\kirby\game.cpp
+	"Game.hpp"
+
+1391072820 c:\users\lisko\dropbox\projet jeu\kirby\kirby\game.hpp
+	<SFML/Graphics.hpp>
+	<SFML/System.hpp>
+	"constantes.hpp"
+	"Level.hpp"
+	"DrawableObject.h"
+	"Character.hpp"
+	"Menu.hpp"
+	"QuadTree.hpp"
+
+1391159803 source:c:\users\lisko\dropbox\projet jeu\kirby\kirby\level.cpp
+	"Level.hpp"
+
+1390827576 c:\users\lisko\dropbox\projet jeu\kirby\kirby\drawableobject.h
+	<SFML/Graphics.hpp>
+	<SFML/System.hpp>
+
+1391159803 c:\users\lisko\dropbox\projet jeu\kirby\kirby\level.hpp
+	<iostream>
+	<list>
+	<iostream>
+	<fstream>
+	<sstream>
+	<list>
+	"Reader.h"
+	"DrawableObject.h"
+	"Map.hpp"
+	"MapLoader.h"
+	"QuadTree.hpp"
+
+1391171405 source:c:\users\lisko\dropbox\projet jeu\kirby\kirby\character.cpp
+	"Character.hpp"
+
+1391166851 c:\users\lisko\dropbox\projet jeu\kirby\kirby\character.hpp
+	<SFML/Graphics.hpp>
+	"DrawableObject.h"
+	"constantes.hpp"
+	"Animation.hpp"
+	"CouldGetForce.h"
+	"Game.hpp"
+	"QuadTree.hpp"
+	"weapon.hpp"
+	"Rifle.hpp"
+
+1390905459 c:\users\lisko\dropbox\projet jeu\kirby\kirby\animation.hpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	<list>
+
+1390942865 source:c:\users\lisko\dropbox\projet jeu\kirby\kirby\animation.cpp
+	"Animation.hpp"
+
+1387735202 c:\users\lisko\dropbox\projet jeu\kirby\kirby\reader.h
+	<iostream>
+	<fstream>
+	<sstream>
+
+1391170813 source:c:\users\lisko\dropbox\projet jeu\kirby\kirby\map.cpp
+	"Map.hpp"
+
+1391159803 c:\users\lisko\dropbox\projet jeu\kirby\kirby\map.hpp
+	<iostream>
+	<Vector>
+	<List>
+	<SFML/System.hpp>
+	<SFML/Audio.hpp>
+	<SFML/Graphics.hpp>
+	"QuadTree.hpp"
+
+1391163361 source:c:\users\lisko\dropbox\projet jeu\kirby\kirby\maploader.cpp
+	"MapLoader.h"
+
+1390842898 c:\users\lisko\dropbox\projet jeu\kirby\kirby\maploader.h
+	<SFML\Graphics.hpp>
+	<iostream>
+	<fstream>
+	<sstream>
+	<list>
+	"Reader.h"
+	"Map.hpp"
+	"constantes.hpp"
+
+1390836193 source:c:\users\lisko\dropbox\projet jeu\kirby\kirby\reader.cpp
+	"Reader.h"
+
+1390942865 source:d:\dropbox\projet jeu\kirby\kirby\animation.cpp
+	"Animation.hpp"
+
+1390905459 d:\dropbox\projet jeu\kirby\kirby\animation.hpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	<list>
+
+1391803431 source:d:\dropbox\projet jeu\kirby\kirby\character.cpp
+	"Character.hpp"
+
+1391803425 d:\dropbox\projet jeu\kirby\kirby\character.hpp
+	<SFML/Graphics.hpp>
+	"DrawableObject.h"
+	"constantes.hpp"
+	"Animation.hpp"
+	"CouldGetForce.h"
+	"Game.hpp"
+	"QuadTree.hpp"
+	"weapon.hpp"
+	"Rifle.hpp"
+
+1390827576 d:\dropbox\projet jeu\kirby\kirby\drawableobject.h
+	<SFML/Graphics.hpp>
+	<SFML/System.hpp>
+
+1391072194 d:\dropbox\projet jeu\kirby\kirby\constantes.hpp
+	<iostream>
+
+1391805162 source:d:\dropbox\projet jeu\kirby\kirby\game.cpp
+	"Game.hpp"
+
+1391072820 d:\dropbox\projet jeu\kirby\kirby\game.hpp
+	<SFML/Graphics.hpp>
+	<SFML/System.hpp>
+	"constantes.hpp"
+	"Level.hpp"
+	"DrawableObject.h"
+	"Character.hpp"
+	"Menu.hpp"
+	"QuadTree.hpp"
+
+1391159803 d:\dropbox\projet jeu\kirby\kirby\level.hpp
+	<iostream>
+	<list>
+	<iostream>
+	<fstream>
+	<sstream>
+	<list>
+	"Reader.h"
+	"DrawableObject.h"
+	"Map.hpp"
+	"MapLoader.h"
+	"QuadTree.hpp"
+
+1387735202 d:\dropbox\projet jeu\kirby\kirby\reader.h
+	<iostream>
+	<fstream>
+	<sstream>
+
+1391159803 d:\dropbox\projet jeu\kirby\kirby\map.hpp
+	<iostream>
+	<Vector>
+	<List>
+	<SFML/System.hpp>
+	<SFML/Audio.hpp>
+	<SFML/Graphics.hpp>
+	"QuadTree.hpp"
+
+1390842898 d:\dropbox\projet jeu\kirby\kirby\maploader.h
+	<SFML\Graphics.hpp>
+	<iostream>
+	<fstream>
+	<sstream>
+	<list>
+	"Reader.h"
+	"Map.hpp"
+	"constantes.hpp"
+
+1391159803 source:d:\dropbox\projet jeu\kirby\kirby\level.cpp
+	"Level.hpp"
+
+1391793422 source:d:\dropbox\projet jeu\kirby\kirby\main.cpp
+	<SFML/Graphics.hpp>
+	<SFML/System.hpp>
+	"constantes.hpp"
+	"mainMenu.hpp"
+	"menuAnimation.hpp"
+	"Game.hpp"
+
+1390897215 d:\dropbox\projet jeu\kirby\kirby\mainmenu.hpp
+	<SFML/Graphics.hpp>
+	<SFML/System.hpp>
+	"constantes.hpp"
+
+1391171942 d:\dropbox\projet jeu\kirby\kirby\menuanimation.hpp
+	<SFML/Graphics.hpp>
+	<SFML/System.hpp>
+	<iostream>
+
+1390944102 source:d:\dropbox\projet jeu\kirby\kirby\mainmenu.cpp
+	"mainMenu.hpp"
+
+1391801238 source:d:\dropbox\projet jeu\kirby\kirby\map.cpp
+	"Map.hpp"
+
+1390843085 source:d:\dropbox\projet jeu\kirby\kirby\maploader.cpp
+	"MapLoader.h"
+
+1391172321 source:d:\dropbox\projet jeu\kirby\kirby\menuanimation.cpp
+	"menuAnimation.hpp"
+
+1390836193 source:d:\dropbox\projet jeu\kirby\kirby\reader.cpp
+	"Reader.h"
+
+1390943036 d:\dropbox\projet jeu\kirby\kirby\couldgetforce.h
+	"Force.hpp"
+	<vector>
+	<iostream>
+
+1390945463 d:\dropbox\projet jeu\kirby\kirby\force.hpp
+	<SFML/System.hpp>
+	<math.h>
+
+1390943844 source:d:\dropbox\projet jeu\kirby\kirby\couldgetforce.cpp
+	"CouldGetForce.h"
+
+1390945463 source:d:\dropbox\projet jeu\kirby\kirby\force.cpp
+	"Force.hpp"
+
+1390943844 source:c:\users\lisko\dropbox\projet jeu\kirby\kirby\couldgetforce.cpp
+	"CouldGetForce.h"
+
+1390943036 c:\users\lisko\dropbox\projet jeu\kirby\kirby\couldgetforce.h
+	"Force.hpp"
+	<vector>
+	<iostream>
+
+1390945463 c:\users\lisko\dropbox\projet jeu\kirby\kirby\force.hpp
+	<SFML/System.hpp>
+	<math.h>
+
+1390945463 source:c:\users\lisko\dropbox\projet jeu\kirby\kirby\force.cpp
+	"Force.hpp"
+
+1390944073 c:\users\lisko\dropbox\projet jeu\kirby\kirby\menu.hpp
+	<SFML/Graphics.hpp>
+	"DrawableObject.h"
+	"constantes.hpp"
+
+1390944288 source:c:\users\lisko\dropbox\projet jeu\kirby\kirby\menu.cpp
+	"Menu.hpp"
+
+1391076899 c:\users\lisko\dropbox\projet jeu\kirby\kirby\quadtree.hpp
+	<SFML/System.hpp>
+	<SFML/Audio.hpp>
+	<SFML/Graphics.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<list>
+	<vector>
+	<iostream>
+	<string.h>
+	<time.h>
+	"constantes.hpp"
+	"Bullet.hpp"
+
+1391171037 source:c:\users\lisko\dropbox\projet jeu\kirby\kirby\quadtree.cpp
+	"QuadTree.hpp"
+
+1391801039 d:\dropbox\projet jeu\kirby\kirby\quadtree.hpp
+	<SFML/System.hpp>
+	<SFML/Audio.hpp>
+	<SFML/Graphics.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<list>
+	<vector>
+	<iostream>
+	<string.h>
+	<time.h>
+	"constantes.hpp"
+	"Bullet.hpp"
+
+1390944073 d:\dropbox\projet jeu\kirby\kirby\menu.hpp
+	<SFML/Graphics.hpp>
+	"DrawableObject.h"
+	"constantes.hpp"
+
+1390944288 source:d:\dropbox\projet jeu\kirby\kirby\menu.cpp
+	"Menu.hpp"
+
+1391800962 source:d:\dropbox\projet jeu\kirby\kirby\quadtree.cpp
+	"QuadTree.hpp"
+
+1391072820 d:\dropbox\projet jeu\kirby\kirby\weapon.hpp
+	<ctime>
+	<list>
+	<SFML/Graphics.hpp>
+	"DrawableObject.h"
+	"constantes.hpp"
+	"Bullet.hpp"
+	"Force.hpp"
+
+1391167087 d:\dropbox\projet jeu\kirby\kirby\bullet.hpp
+	<SFML/Graphics.hpp>
+	"DrawableObject.h"
+	"weapon.hpp"
+	"constantes.hpp"
+	"CouldGetForce.h"
+
+1391167630 source:d:\dropbox\projet jeu\kirby\kirby\bullet.cpp
+	"Bullet.hpp"
+
+1391161398 source:d:\dropbox\projet jeu\kirby\kirby\weapon.cpp
+	"weapon.hpp"
+
+1391162777 d:\dropbox\projet jeu\kirby\kirby\rifle.hpp
+	<ctime>
+	<list>
+	<SFML/Graphics.hpp>
+	"DrawableObject.h"
+	"constantes.hpp"
+	"Bullet.hpp"
+	"Force.hpp"
+	"weapon.hpp"
+
+1391167450 source:d:\dropbox\projet jeu\kirby\kirby\rifle.cpp
+	"Rifle.hpp"
+
+1390942865 source:g:\document\dropbox\projet jeu\kirby\kirby\animation.cpp
+	"Animation.hpp"
+
+1390905459 g:\document\dropbox\projet jeu\kirby\kirby\animation.hpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	<list>
+
+1391074086 source:g:\document\dropbox\projet jeu\kirby\kirby\bullet.cpp
+	"Bullet.hpp"
+
+1391072820 g:\document\dropbox\projet jeu\kirby\kirby\bullet.hpp
+	<SFML/Graphics.hpp>
+	"DrawableObject.h"
+	"weapon.hpp"
+	"constantes.hpp"
+
+1390827576 g:\document\dropbox\projet jeu\kirby\kirby\drawableobject.h
+	<SFML/Graphics.hpp>
+	<SFML/System.hpp>
+
+1391072820 g:\document\dropbox\projet jeu\kirby\kirby\weapon.hpp
+	<ctime>
+	<list>
+	<SFML/Graphics.hpp>
+	"DrawableObject.h"
+	"constantes.hpp"
+	"Bullet.hpp"
+	"Force.hpp"
+
+1391072194 g:\document\dropbox\projet jeu\kirby\kirby\constantes.hpp
+	<iostream>
+
+1391072820 source:g:\document\dropbox\projet jeu\kirby\kirby\character.cpp
+	"Character.hpp"
+
+1391068553 g:\document\dropbox\projet jeu\kirby\kirby\character.hpp
+	<SFML/Graphics.hpp>
+	"DrawableObject.h"
+	"constantes.hpp"
+	"Animation.hpp"
+	"CouldGetForce.h"
+	"Game.hpp"
+	"QuadTree.hpp"
+	"weapon.hpp"
+	"Rifle.hpp"
+
+1390943036 g:\document\dropbox\projet jeu\kirby\kirby\couldgetforce.h
+	"Force.hpp"
+	<vector>
+	<iostream>
+
+1390945463 g:\document\dropbox\projet jeu\kirby\kirby\force.hpp
+	<SFML/System.hpp>
+	<math.h>
+
+1391072820 g:\document\dropbox\projet jeu\kirby\kirby\game.hpp
+	<SFML/Graphics.hpp>
+	<SFML/System.hpp>
+	"constantes.hpp"
+	"Level.hpp"
+	"DrawableObject.h"
+	"Character.hpp"
+	"Menu.hpp"
+	"QuadTree.hpp"
+
+1391071381 g:\document\dropbox\projet jeu\kirby\kirby\level.hpp
+	<iostream>
+	<list>
+	<iostream>
+	<fstream>
+	<sstream>
+	<list>
+	"Reader.h"
+	"DrawableObject.h"
+	"Map.hpp"
+	"MapLoader.h"
+	"QuadTree.hpp"
+
+1387735202 g:\document\dropbox\projet jeu\kirby\kirby\reader.h
+	<iostream>
+	<fstream>
+	<sstream>
+
+1391071381 g:\document\dropbox\projet jeu\kirby\kirby\map.hpp
+	<iostream>
+	<Vector>
+	<List>
+	<SFML/System.hpp>
+	<SFML/Audio.hpp>
+	<SFML/Graphics.hpp>
+	"QuadTree.hpp"
+
+1391076899 g:\document\dropbox\projet jeu\kirby\kirby\quadtree.hpp
+	<SFML/System.hpp>
+	<SFML/Audio.hpp>
+	<SFML/Graphics.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<list>
+	<vector>
+	<iostream>
+	<string.h>
+	<time.h>
+	"constantes.hpp"
+	"Bullet.hpp"
+
+1390842898 g:\document\dropbox\projet jeu\kirby\kirby\maploader.h
+	<SFML\Graphics.hpp>
+	<iostream>
+	<fstream>
+	<sstream>
+	<list>
+	"Reader.h"
+	"Map.hpp"
+	"constantes.hpp"
+
+1390944073 g:\document\dropbox\projet jeu\kirby\kirby\menu.hpp
+	<SFML/Graphics.hpp>
+	"DrawableObject.h"
+	"constantes.hpp"
+
+1391036422 g:\document\dropbox\projet jeu\kirby\kirby\rifle.hpp
+	<ctime>
+	<list>
+	<SFML/Graphics.hpp>
+	"DrawableObject.h"
+	"constantes.hpp"
+	"Bullet.hpp"
+	"Force.hpp"
+	"weapon.hpp"
+
+1390943844 source:g:\document\dropbox\projet jeu\kirby\kirby\couldgetforce.cpp
+	"CouldGetForce.h"
+
+1390945463 source:g:\document\dropbox\projet jeu\kirby\kirby\force.cpp
+	"Force.hpp"
+
+1391071381 source:g:\document\dropbox\projet jeu\kirby\kirby\game.cpp
+	"Game.hpp"
+
+1391075153 source:g:\document\dropbox\projet jeu\kirby\kirby\level.cpp
+	"Level.hpp"
+
+1391072143 source:g:\document\dropbox\projet jeu\kirby\kirby\main.cpp
+	<SFML/Graphics.hpp>
+	<SFML/System.hpp>
+	"constantes.hpp"
+	"mainMenu.hpp"
+	"menuAnimation.hpp"
+	"Game.hpp"
+
+1390897215 g:\document\dropbox\projet jeu\kirby\kirby\mainmenu.hpp
+	<SFML/Graphics.hpp>
+	<SFML/System.hpp>
+	"constantes.hpp"
+
+1390818823 g:\document\dropbox\projet jeu\kirby\kirby\menuanimation.hpp
+	<SFML/Graphics.hpp>
+	<SFML/System.hpp>
+	<iostream>
+
+1390944102 source:g:\document\dropbox\projet jeu\kirby\kirby\mainmenu.cpp
+	"mainMenu.hpp"
+
+1391076103 source:g:\document\dropbox\projet jeu\kirby\kirby\map.cpp
+	"Map.hpp"
+
+1390843085 source:g:\document\dropbox\projet jeu\kirby\kirby\maploader.cpp
+	"MapLoader.h"
+
+1390944288 source:g:\document\dropbox\projet jeu\kirby\kirby\menu.cpp
+	"Menu.hpp"
+
+1390819140 source:g:\document\dropbox\projet jeu\kirby\kirby\menuanimation.cpp
+	"menuAnimation.hpp"
+
+1391077480 source:g:\document\dropbox\projet jeu\kirby\kirby\quadtree.cpp
+	"QuadTree.hpp"
+
+1390836193 source:g:\document\dropbox\projet jeu\kirby\kirby\reader.cpp
+	"Reader.h"
+
+1391037880 source:g:\document\dropbox\projet jeu\kirby\kirby\rifle.cpp
+	"Rifle.hpp"
+
+1391075011 source:g:\document\dropbox\projet jeu\kirby\kirby\weapon.cpp
+	"weapon.hpp"
+
+1391167630 source:c:\users\lisko\dropbox\projet jeu\kirby\kirby\bullet.cpp
+	"Bullet.hpp"
+
+1391167087 c:\users\lisko\dropbox\projet jeu\kirby\kirby\bullet.hpp
+	<SFML/Graphics.hpp>
+	"DrawableObject.h"
+	"weapon.hpp"
+	"constantes.hpp"
+	"CouldGetForce.h"
+
+1391072820 c:\users\lisko\dropbox\projet jeu\kirby\kirby\weapon.hpp
+	<ctime>
+	<list>
+	<SFML/Graphics.hpp>
+	"DrawableObject.h"
+	"constantes.hpp"
+	"Bullet.hpp"
+	"Force.hpp"
+
+1391162777 c:\users\lisko\dropbox\projet jeu\kirby\kirby\rifle.hpp
+	<ctime>
+	<list>
+	<SFML/Graphics.hpp>
+	"DrawableObject.h"
+	"constantes.hpp"
+	"Bullet.hpp"
+	"Force.hpp"
+	"weapon.hpp"
+
+1391167450 source:c:\users\lisko\dropbox\projet jeu\kirby\kirby\rifle.cpp
+	"Rifle.hpp"
+
+1391161398 source:c:\users\lisko\dropbox\projet jeu\kirby\kirby\weapon.cpp
+	"weapon.hpp"
+

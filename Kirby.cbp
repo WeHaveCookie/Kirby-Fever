@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Kirby" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Kirby" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Kirby" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Animation.cpp" />
+		<Unit filename="Animation.hpp" />
+		<Unit filename="Bullet.cpp" />
+		<Unit filename="Bullet.hpp" />
+		<Unit filename="Character.cpp" />
+		<Unit filename="Character.hpp" />
+		<Unit filename="CouldGetForce.cpp" />
+		<Unit filename="CouldGetForce.h" />
+		<Unit filename="DrawableObject.h" />
+		<Unit filename="Force.cpp" />
+		<Unit filename="Force.hpp" />
+		<Unit filename="Game.cpp" />
+		<Unit filename="Game.hpp" />
+		<Unit filename="Level.cpp" />
+		<Unit filename="Level.hpp" />
+		<Unit filename="MapLoader.cpp" />
+		<Unit filename="MapLoader.h" />
+		<Unit filename="Menu.cpp" />
+		<Unit filename="Menu.hpp" />
+		<Unit filename="QuadTree.cpp" />
+		<Unit filename="QuadTree.hpp" />
+		<Unit filename="Reader.cpp" />
+		<Unit filename="Reader.h" />
+		<Unit filename="Rifle.cpp" />
+		<Unit filename="Rifle.hpp" />
+		<Unit filename="constantes.hpp" />
+		<Unit filename="main.cpp" />
+		<Unit filename="mainMenu.cpp" />
+		<Unit filename="mainMenu.hpp" />
+		<Unit filename="map.cpp" />
+		<Unit filename="map.hpp" />
+		<Unit filename="menuAnimation.cpp" />
+		<Unit filename="menuAnimation.hpp" />
+		<Unit filename="weapon.cpp" />
+		<Unit filename="weapon.hpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
